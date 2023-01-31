@@ -1,7 +1,7 @@
 ## 1. По двум заданным числам проверять является ли первое квадратом второго. https://github.com/Aleksey-pops/Homework-programming-languages_1/tree/main/Home_Work_1
 ## 2. По заданному номеру дня недели вывести его название. https://github.com/Aleksey-pops/Homework-programming-languages_1/tree/main/Home_Work_2
 ## 3. Найти максимальное из трех чисел. https://github.com/Aleksey-pops/Homework-programming-languages_1/tree/main/Home_Work_3
-## 5. Выяснить является ли число чётным
+## 5. Выяснить является ли число чётным. https://github.com/Aleksey-pops/Homework-programming-languages_1/tree/main/Home_Work_5
 ## 6. Показать четные числа от 1 до N
 ## 7. Показать последнюю цифру трёхзначного числа
 ## 8. Показать вторую цифру трёхзначного числа
