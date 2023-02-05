@@ -14,7 +14,7 @@
 
 ## 9. Дано число из отрезка [10, 99]. Показать наибольшую цифру числа. https://github.com/Aleksey-pops/Homework-programming-languages_1/tree/main/Home_Work_9
 
-## 10. *Удалить вторую цифру трёхзначного числа.*
+## 10. *Удалить вторую цифру трёхзначного числа.* https://github.com/Aleksey-pops/Homework-programming-languages_1/tree/main/Home_Work_10
 
 ## 11. **Выяснить, кратно ли число заданному, если нет, вывести остаток.** https://github.com/Aleksey-pops/Homework-programming-languages_1/tree/main/Home_Work_11
 
